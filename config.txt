@@ -1,0 +1,12 @@
+f=false
+g=false
+eliraurl=
+window_size=0,0
+window_position=1400,0
+pdfsize=625,625
+marginX=0
+marginY=0
+offset=0
+font_size=1
+title=Devastor_ELIRA_dialogue
+font_name=KazmannSans

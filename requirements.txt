@@ -1,0 +1,5 @@
+selenium
+reportlab
+textwrap
+pickle
+argparse
